@@ -9,3 +9,6 @@ A simple Javascript function (kind of a stretch to call it a "library") to creat
 `addText` is a boolean.  If true, then the word "Loading" will appear.  Defaults to true.
 
 It returns a callable that, when called, stops the animation.
+
+Easy "install" with `wget https://raw.githubusercontent.com/anorman728/loading-icon/master/loading-icon.js`.
+
